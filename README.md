@@ -10,3 +10,13 @@ To date, Cyclistic's marketing strategy has centered on creating general awarene
 The director of marketing, Moreno, believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a solid opportunity to convert casual riders into members. 
 
 So, the main goal is to design marketing strategies focused on converting casual riders into annual members.
+# The Six Steps
+#  1. Ask
+The Main Goal: Design marketing strategies to convert casual riders into annual members by understanding how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
+
+Questions for giding the future marketing program:
+1. How do annual members and casual riders use Cuclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+   
+#  2. Prepare

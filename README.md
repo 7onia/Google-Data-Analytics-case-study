@@ -20,3 +20,7 @@ Questions for giding the future marketing program:
 3. How can Cyclistic use digital media to influence casual riders to become members?
    
 #  2. Prepare
+
+Data source: [](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+

@@ -37,3 +37,6 @@ The data is used in this case study originates from CSV files that is available 
   2. [Data Exploration](https://github.com/7onia/case-study/blob/main/Data%20Exploration.sql)
   3. [Data Cleaning](https://github.com/7onia/case-study/blob/main/Data_Cleaning.sql)
   4. [Data Analysis](https://github.com/7onia/case-study/blob/main/Data_Analysis.sql)
+ 
+  # Data Combining
+The 12 tables from January 2023 to December 2023 were stacked and combined into a single table. The table consists of 5,667,717 rows.

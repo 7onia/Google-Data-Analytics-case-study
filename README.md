@@ -34,4 +34,5 @@ The data is used in this case study originates from CSV files that is available 
   # 3. Process
   The basis for this analysis is 2023 data and the steps for processing the data are as follow:
   1. [Data Combining](https://github.com/7onia/case-study/blob/main/Data%20Combining.sql)
-  2. 
+  2. [Data Exploration](https://github.com/7onia/case-study/blob/main/Data%20Exploration.sql)
+  3. 

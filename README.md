@@ -39,4 +39,31 @@ The data is used in this case study originates from CSV files that is available 
   4. [Data Analysis](https://github.com/7onia/case-study/blob/main/Data_Analysis.sql)
  
   # Data Combining
-The 12 tables from January 2023 to December 2023 were stacked and combined into a single table. The table consists of 5,667,717 rows.
+The 12 tables from January 2023 to December 2023 were stacked and combined into a single table. The table consists of  5.526.492 rows.
+
+# Data Exploration
+I ran the queries for each column from left to right in order to determine the data type and to uncover any missing values, outliers, inconsistencies, and errors within the dataset.
+
+The data set consists of 13 variables, as shown in the following:
+
+No.	Variable	Description
+1	ride_id:	Unique ID assigned to each ride
+2	rideable_type:	classic, docked, or electric
+3	started_at:	Date and time at the start of trip
+4	ended_at:	Date and time at the end of trip
+5	start_station_name:	Name of the station where the ride journey started from
+6	start_station_id:	ID of the station where the ride journey started from
+7	end_station_name:	Name of the station where the ride trip ended at
+8	end_station_id:	ID of the station where the ride trip ended at
+9	start_lat:	Latitude of starting station
+10	start_lng:	Longitude of starting station
+11	end_lat:	Latitude of ending station
+12	end_lng:	Longitude of ending station
+13	member_casual:	Type of membership of each rider
+
+# Data Cleaning
+Before analyzing the data, the dataset was cleaned by:
+
+Removing the trips with null values.
+Adding 3 columns: 'hours_difference', 'dayofweek' and 'month'.
+Exclusing the rides with duration less than a hour or longer than a day.

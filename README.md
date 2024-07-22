@@ -36,4 +36,4 @@ The data is used in this case study originates from CSV files that is available 
   1. [Data Combining](https://github.com/7onia/case-study/blob/main/Data%20Combining.sql)
   2. [Data Exploration](https://github.com/7onia/case-study/blob/main/Data%20Exploration.sql)
   3. [Data Cleaning](https://github.com/7onia/case-study/blob/main/Data_Cleaning.sql)
-  4. 
+  4. [Data Analysis](https://github.com/7onia/case-study/blob/main/Data_Analysis.sql)

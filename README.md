@@ -67,3 +67,13 @@ Before analyzing the data, the dataset was cleaned by:
 Removing the trips with null values.
 Adding 3 columns: 'hours_difference', 'dayofweek' and 'month'.
 Exclusing the rides with duration less than a hour or longer than a day.
+
+# 4. Analyze
+
+# Data Analysis
+The first analysis question is:
+How do annual members and casual riders use Cyclistic bike differently?
+
+# Total Riders in 2023
+The below visual shows the total number of riders in 2023 that is 584 of members and 416 of casuals. So, total riders are 1000.
+[Sheet 1.pdf](https://github.com/user-attachments/files/16365552/Sheet.1.pdf)

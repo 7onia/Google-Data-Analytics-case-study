@@ -89,6 +89,7 @@ The types of bicycles that are used for the trips are classic and electric:
 
 # Average Hours Different
 So, the average hours difference for the cyclistic members is 730.519 hours and for the casual riders is 725.502 hours.
-![Sheet 3](https://github.com/user-attachments/assets/12b7fc37-89e9-4c7a-8f1d-394c2076563e)
+![Sheet 2-2](https://github.com/user-attachments/assets/a60bdcbe-c8ea-4729-9aa5-297ffbeda40e)
+
 Finally, the hour difference of casual is smaller than members. However, they have small deviation.
 

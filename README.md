@@ -89,7 +89,16 @@ The types of bicycles that are used for the trips are classic and electric:
 
 # Average Hours Different
 So, the average hours difference for the cyclistic members is 730.519 hours and for the casual riders is 725.502 hours.
-![Sheet 2-2](https://github.com/user-attachments/assets/a60bdcbe-c8ea-4729-9aa5-297ffbeda40e)
+![Sheet 2-3](https://github.com/user-attachments/assets/a56c715e-3e5a-4c36-8569-200d29973405)
+
 
 Finally, the hour difference of casual is smaller than members. However, they have small deviation.
+
+# Trips taken in September
+According to cyclistic clean data, the preference of cyclistic activity can be determined by drawing graph of trips month against month September 2023.
+![Sheet 5](https://github.com/user-attachments/assets/17f8d1a6-afb9-4d7f-958b-a492a3fd1041)
+
+In September 2023, highest activity(135 rides) for cyclistic members are on Saturday and about the highest activity(85 rides)'s casuals is also on Saturdays.
+Generally, the bike rides ae most frequented on Saturdays and least frequented on Mondays.
+
 

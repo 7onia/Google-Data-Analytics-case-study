@@ -94,11 +94,26 @@ So, the average hours difference for the cyclistic members is 730.519 hours and 
 
 Finally, the hour difference of casual is smaller than members. However, they have small deviation.
 
-# Trips taken in September
-According to cyclistic clean data, the preference of cyclistic activity can be determined by drawing graph of trips month against month September 2023.
-![Sheet 5](https://github.com/user-attachments/assets/17f8d1a6-afb9-4d7f-958b-a492a3fd1041)
+# Trips taken in Month
+According to cyclistic clean data, the preference of cyclistic activity can be determined by drawing graph of trips month against months:August, September and November 2023.
+![Sheet 3-3](https://github.com/user-attachments/assets/6e31994c-b499-479f-b1bc-811114ed0c90)
 
-In September 2023, highest activity(135 rides) for cyclistic members are on Saturday and about the highest activity(85 rides)'s casuals is also on Saturdays.
-Generally, the bike rides ae most frequented on Saturdays and least frequented on Mondays.
+In August 2023, total ride both Cyclistic members and casual riders is only 1 trip.
 
+In September 2023, highest activity(16.111 rides) for cyclistic members and about the highest activity(11.336 rides) of casual riders. 
 
+In November 2023, total rides both Cyclistic members and casual riders are 3 trips.
+
+# Trips taken in a Week
+The bar chart below illustrates the daily user activity throughout the week.
+![Sheet 1-4](https://github.com/user-attachments/assets/bc1da6b2-958f-47be-978a-3b6b485e6d3e)
+
+Generally, the bike rides are most frequented on Saturdays.
+- Cyclistic members have the highest activity (3.319 rides) on Saturday while the lowest activity (1.639 rides) on Monday.
+- Casual riders have the highest activity (2.319 rides) on Saturday while the lowest activity (1.152 rides) on Monday.
+
+# Average Ride Length in a Week
+The average duration of ride in a week.
+![Sheet 2-5](https://github.com/user-attachments/assets/703bce87-f1bd-4e88-95b9-2fe5845aa7e4)
+
+Both Cyclistic members and casual riders, the average duration is 11,50 hours weekly.

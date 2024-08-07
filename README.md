@@ -77,6 +77,7 @@ How do annual members and casual riders use Cyclistic bike differently?
 # - Total Riders in 2023
 The below visual shows the total number of riders in 2023 that 3.551.329 is of members and 1.975.163 of casuals. 
 So, total riders are 5.526.492 .
+
 ![Sheet 4-2](https://github.com/user-attachments/assets/eb0ae5e1-5f86-49ec-ae82-17552e29a0e6)
 
 

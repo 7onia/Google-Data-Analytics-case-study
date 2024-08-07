@@ -75,24 +75,20 @@ The first analysis question is:
 How do annual members and casual riders use Cyclistic bike differently?
 
 # - Total Riders in 2023
-The below visual shows the total number of riders in 2023 that is 584 of members and 416 of casuals. 
-So, total riders are 1000.
-![Sheet 1](https://github.com/user-attachments/assets/1e1775b0-1065-4238-9105-f7b2d4e9cfe1)
+The below visual shows the total number of riders in 2023 that 3.551.329 is of members and 1.975.163 of casuals. 
+So, total riders are 5.526.492 .
+![Sheet 4-2](https://github.com/user-attachments/assets/eb0ae5e1-5f86-49ec-ae82-17552e29a0e6)
+
 
 # - Types of Bikes
 The types of bicycles that are used for the trips are classic and electric:
-![Sheet 2](https://github.com/user-attachments/assets/8859cfe2-40bd-418f-97ea-b1a755341611)
+![Sheet 5-2](https://github.com/user-attachments/assets/deb952e0-4213-4200-961d-9ed7529b6ade)
+
 
 > There are three types of bicycles: classic, electric and docked bikes.
 > But, the cyclistic member and casual prefer only classic and electric bikes.
-> And, higher preference of riders is in classic bikes (533) than electric bikes (467).
+> And, higher preference of riders is in classic bikes (14.833) than electric bikes (12.622).
 
-# Average Hours Different
-So, the average hours difference for the cyclistic members is 730.519 hours and for the casual riders is 725.502 hours.
-![Sheet 2-3](https://github.com/user-attachments/assets/a56c715e-3e5a-4c36-8569-200d29973405)
-
-
-Finally, the hour difference of casual is smaller than members. However, they have small deviation.
 
 # Trips taken in Month
 According to cyclistic clean data, the preference of cyclistic activity can be determined by drawing graph of trips month against months:August, September and November 2023.

@@ -78,12 +78,14 @@ How do annual members and casual riders use Cyclistic bike differently?
 The below visual shows the total number of riders in 2023 that 3.551.329 is of members and 1.975.163 of casuals. 
 So, total riders are 5.526.492 .
 
-![Sheet 4-2](https://github.com/user-attachments/assets/eb0ae5e1-5f86-49ec-ae82-17552e29a0e6)
+
 
 
 # - Types of Bikes
 The types of bicycles that are used for the trips are classic and electric:
-![Sheet 5-2](https://github.com/user-attachments/assets/deb952e0-4213-4200-961d-9ed7529b6ade)
+![Classic Vs Electric Bike](https://github.com/user-attachments/assets/b6c49778-fc6c-4b35-86e7-2d387729c31d)
+
+![Member Vs Casual](https://github.com/user-attachments/assets/c297d2db-a388-4056-9ca1-e9310f12c15e)
 
 
 > There are three types of bicycles: classic, electric and docked bikes.
@@ -93,7 +95,8 @@ The types of bicycles that are used for the trips are classic and electric:
 
 # Trips taken in Month
 According to cyclistic clean data, the preference of cyclistic activity can be determined by drawing graph of trips month against months:August, September and November 2023.
-![Sheet 3-3](https://github.com/user-attachments/assets/6e31994c-b499-479f-b1bc-811114ed0c90)
+![Monthly Total Rides](https://github.com/user-attachments/assets/7d63108b-1f57-443c-8c45-7d186283f095)
+
 
 In August 2023, total ride both Cyclistic members and casual riders is only 1 trip.
 
@@ -103,7 +106,8 @@ In November 2023, total rides both Cyclistic members and casual riders are 3 tri
 
 # Trips taken in a Week
 The bar chart below illustrates the daily user activity throughout the week.
-![Sheet 1-4](https://github.com/user-attachments/assets/bc1da6b2-958f-47be-978a-3b6b485e6d3e)
+![Weekly Total Rides](https://github.com/user-attachments/assets/c075d961-39d3-478f-8156-68ef628e74d3)
+
 
 Generally, the bike rides are most frequented on Saturdays.
 - Cyclistic members have the highest activity (3.319 rides) on Saturday while the lowest activity (1.639 rides) on Monday.
@@ -111,7 +115,8 @@ Generally, the bike rides are most frequented on Saturdays.
 
 # Average Ride Length in a Week
 The average duration of ride in a week.
-[hour](https://public.tableau.com/app/profile/tonia.ieronymaki/viz/totalridesperweek/Dashboard1#1)
+![Average Hour of Ride](https://github.com/user-attachments/assets/8f1d4ffb-6268-440e-ac09-208612116c01)
+
 Both Cyclistic members and casual riders, the average duration is 11,50 hours weekly.
 
 

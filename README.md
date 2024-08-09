@@ -114,3 +114,9 @@ The average duration of ride in a week.
 ![Sheet 2-5](https://github.com/user-attachments/assets/703bce87-f1bd-4e88-95b9-2fe5845aa7e4)
 
 Both Cyclistic members and casual riders, the average duration is 11,50 hours weekly.
+
+
+# 5. Share
+![Dashboard 1](https://github.com/user-attachments/assets/af481010-82f2-451b-9089-d0824242f795)
+
+View [](https://public.tableau.com/authoring/totalridesperweek/Dashboard1#1)

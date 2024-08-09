@@ -111,8 +111,7 @@ Generally, the bike rides are most frequented on Saturdays.
 
 # Average Ride Length in a Week
 The average duration of ride in a week.
-![Sheet 2-5](https://github.com/user-attachments/assets/703bce87-f1bd-4e88-95b9-2fe5845aa7e4)
-
+[](https://public.tableau.com/app/profile/tonia.ieronymaki/viz/totalridesperweek/Dashboard1#1)
 Both Cyclistic members and casual riders, the average duration is 11,50 hours weekly.
 
 

@@ -77,6 +77,7 @@ How do annual members and casual riders use Cyclistic bike differently?
 # - Total Riders in 2023
 The below visual shows the total number of riders in 2023 that 3.551.329 is of members and 1.975.163 of casuals. 
 So, total riders are 5.526.492 .
+![Member Vs Casual](https://github.com/user-attachments/assets/950da735-ae53-4294-b965-ab5545886e98)
 
 
 
@@ -84,9 +85,6 @@ So, total riders are 5.526.492 .
 # - Types of Bikes
 The types of bicycles that are used for the trips are classic and electric:
 ![Classic Vs Electric Bike](https://github.com/user-attachments/assets/b6c49778-fc6c-4b35-86e7-2d387729c31d)
-
-![Member Vs Casual](https://github.com/user-attachments/assets/c297d2db-a388-4056-9ca1-e9310f12c15e)
-
 
 > There are three types of bicycles: classic, electric and docked bikes.
 > But, the cyclistic member and casual prefer only classic and electric bikes.

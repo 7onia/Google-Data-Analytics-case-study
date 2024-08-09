@@ -120,14 +120,14 @@ Both Cyclistic members and casual riders, the average duration is 11,50 hours we
 
 
 # 5. Share
-![Dashboard 1](https://github.com/user-attachments/assets/af481010-82f2-451b-9089-d0824242f795)
+![Dashboard 1-3](https://github.com/user-attachments/assets/80eb7184-52eb-4100-b6d5-169576dfd391)
 
 View [Cyclistic Bike-Share Dashboard](https://public.tableau.com/app/profile/tonia.ieronymaki/viz/totalridesperweek/Dashboard1#1)
-
 The Similarities and Differences between Members and Casuals, according to Dashboard:
 
 **Similarities:**
 1. Both Cyclistic Members and Casuals prefer to ride in summer and autumn season (August to November).
    High preference of ride shows on September.
+   
 2.Both Cyclistic Members and Casuals have average hour of day 11.50 hours ride.
 
